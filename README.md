@@ -1,5 +1,6 @@
 ## Hey there 🤓 <br>
-My name is Thaisa but you can call me Thai. Welcome to my Github!
+My name is Thaisa but you can call me Thai🌱<br>
+Welcome to my Github!
 
 <div>
   <a href="mailto: thaisacontar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
