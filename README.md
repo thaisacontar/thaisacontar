@@ -10,7 +10,7 @@ Welcome to my Github!
 ##
 
 - 🔭 I’m currently a FullStack student at Gama Academy #Hacker
-- 🌱 I’m currently learning JavaScript
+- 💻 I’m currently learning JavaScript
 
 ##
 
