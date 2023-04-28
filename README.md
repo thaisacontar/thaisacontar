@@ -1,5 +1,5 @@
 ## Hey there 🤓 <br>
-My name is Thaisa but you can call me Thai🌱<br>
+My name is Thaisa, you can call me Thai🌱<br>
 Welcome to my Github!
 
 <div>
