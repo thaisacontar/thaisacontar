@@ -10,7 +10,8 @@ Welcome to my Github!
 ##
 
 - 🔭 I’m currently a FullStack student at Gama Academy #Hacker
-- 💻 I’m currently learning JavaScript
+- 🤓 Good knowledge in: HTML | CSS | JavaScript | NodeJS | Express | MySQL
+- 💻 Currently learning: TypeScript | Design Patterns | Test Automation | NoSQL/MongoDB
 
 ##
 
