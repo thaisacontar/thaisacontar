@@ -15,6 +15,12 @@ Welcome to my Github.
 
 ##
 
-<div>
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaisacontar&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<div display:inline_block align="center">
+  <a href="https://github.com/thaisacontar">
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thaisacontar&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaisacontar&layout=compact&langs_count=7&theme=dark"> 
+     <img height="120em" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+    </div>
+      <br>
+    </div>
