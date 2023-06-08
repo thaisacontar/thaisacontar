@@ -9,7 +9,7 @@ Welcome to my Github.
 
 ##
 
-- 🔭 I’m currently a FullStack/Back-end student at Gama Academy #Hacker
+- 🔭 I’m currently a Full Stack/Back End student at Gama Academy #Hacker
 - 🤓 Good knowledge in: HTML | CSS | JavaScript | NodeJS | Express | MySQL
 - 💻 Currently learning: TypeScript | Design Patterns | Test Automation | NoSQL/MongoDB
 
