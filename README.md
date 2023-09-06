@@ -9,9 +9,8 @@ Welcome to my Github.
 
 ##
 
-- 🔭 I’m currently a FullStack/BackEnd student at Gama Academy #Hacker
-- 🤓 Good knowledge in: HTML | CSS | JavaScript | NodeJS | Express | MySQL
-- 💻 Currently learning: TypeScript | Design Patterns | Test Automation | NoSQL/MongoDB
+- 🔭 I’m a FullStack/BackEnd Developer #Hacker
+- 🤓 Good knowledge in: HTML | CSS | JavaScript/TypeScript | NodeJS | Express | SQL / MySQL | Design Patterns | Test Automation | NoSQL/MongoDB
 
 ##
 
